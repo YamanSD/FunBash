@@ -1,4 +1,4 @@
-# FunBash ⚙️
+# FunBash 🐢
 
 A little fun project used for learning Bash.
 
