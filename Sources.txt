@@ -1,6 +1,0 @@
-https://www.man7.org/linux/man-pages/man1/date.1.html
-https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
-https://stackoverflow.com/questions/638975/how-do-i-tell-if-a-file-does-not-exist-in-bash
-https://unix.stackexchange.com/questions/269077/tput-setaf-color-table-how-to-determine-color-codes
-https://ss64.com/bash/read.html
-https://stackoverflow.com/questions/16956810/how-to-find-all-files-containing-a-specific-text-string-on-linux
